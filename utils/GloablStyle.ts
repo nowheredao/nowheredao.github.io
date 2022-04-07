@@ -1,6 +1,14 @@
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
+  @font-face {
+    font-family: "din_bold";
+    src: url("../fonts/din_bold.otf");
+  }
+  @font-face {
+    font-family: "din_regular";
+    src: url("../fonts/din_regular.otf");
+  }
     *{
       padding: 0;
       margin: 0;
