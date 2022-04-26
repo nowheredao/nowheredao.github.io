@@ -1,0 +1,12 @@
+{
+    "contractAddress": "0xac7f2db94582e37710a9696cb3d647277b9de6e2",
+    "onlineChainId": "0x13881",
+    "chainName": "Matic Testnet",
+    "nativeCurrency": {
+        "name": "Matic Testnet Native Token",
+        "symbol": "tMATIC",
+        "decimals": 18
+    },
+    "rpcUrls": ["https://rpc-mumbai.maticvigil.com"],
+    "blockExplorerUrls": ["https://polygonscan.com"]
+}
